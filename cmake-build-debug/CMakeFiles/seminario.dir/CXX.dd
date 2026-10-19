@@ -1,0 +1,18 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/seminario.dir/main.cpp.o: dyndep | CMakeFiles/seminario.dir/selecao_atividades.pcm CMakeFiles/seminario.dir/mochila_fracionaria.pcm CMakeFiles/seminario.dir/huffman.pcm CMakeFiles/seminario.dir/kruskal.pcm CMakeFiles/seminario.dir/prim.pcm
+
+build CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o | CMakeFiles/seminario.dir/selecao_atividades.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o | CMakeFiles/seminario.dir/mochila_fracionaria.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/seminario.dir/3_huffman.cppm.o | CMakeFiles/seminario.dir/huffman.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o | CMakeFiles/seminario.dir/kruskal.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/seminario.dir/5_prim_mst.cppm.o | CMakeFiles/seminario.dir/prim.pcm: dyndep
+  restat = 1
+

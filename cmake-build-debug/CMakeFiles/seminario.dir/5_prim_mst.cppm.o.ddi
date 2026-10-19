@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/5_prim_mst.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "prim",
+          "source-path": "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/5_prim_mst.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

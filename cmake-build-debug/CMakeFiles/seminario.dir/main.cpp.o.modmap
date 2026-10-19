@@ -1,0 +1,5 @@
+-fmodule-file="selecao_atividades=CMakeFiles/seminario.dir/selecao_atividades.pcm"
+-fmodule-file="mochila_fracionaria=CMakeFiles/seminario.dir/mochila_fracionaria.pcm"
+-fmodule-file="huffman=CMakeFiles/seminario.dir/huffman.pcm"
+-fmodule-file="kruskal=CMakeFiles/seminario.dir/kruskal.pcm"
+-fmodule-file="prim=CMakeFiles/seminario.dir/prim.pcm"

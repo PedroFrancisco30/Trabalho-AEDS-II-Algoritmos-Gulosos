@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "mochila_fracionaria",
+          "source-path": "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/2_mochila_fracionaria.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

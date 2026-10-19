@@ -1,0 +1,99 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : [],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/1_selecao_atividades.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : [],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/2_mochila_fracionaria.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/seminario.dir/3_huffman.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : [],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/3_huffman.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : [],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/4_kruskal_mst.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/seminario.dir/5_prim_mst.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : [],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/5_prim_mst.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug",
+	"dir-cur-src" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos",
+	"dir-top-bld" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug",
+	"dir-top-src" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir",
+	"sources" : 
+	{
+		"CMakeFiles/seminario.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/main.cpp"
+		}
+	}
+}

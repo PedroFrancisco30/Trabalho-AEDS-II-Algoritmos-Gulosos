@@ -1,0 +1,59 @@
+{
+	"modules" : 
+	{
+		"huffman" : 
+		{
+			"bmi" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir/huffman.pcm",
+			"is-private" : false
+		},
+		"kruskal" : 
+		{
+			"bmi" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir/kruskal.pcm",
+			"is-private" : false
+		},
+		"mochila_fracionaria" : 
+		{
+			"bmi" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir/mochila_fracionaria.pcm",
+			"is-private" : false
+		},
+		"prim" : 
+		{
+			"bmi" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir/prim.pcm",
+			"is-private" : false
+		},
+		"selecao_atividades" : 
+		{
+			"bmi" : "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir/selecao_atividades.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"huffman" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/seminario.dir/huffman.pcm"
+		},
+		"kruskal" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/seminario.dir/kruskal.pcm"
+		},
+		"mochila_fracionaria" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/seminario.dir/mochila_fracionaria.pcm"
+		},
+		"prim" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/seminario.dir/prim.pcm"
+		},
+		"selecao_atividades" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/seminario.dir/selecao_atividades.pcm"
+		}
+	},
+	"usages" : {}
+}

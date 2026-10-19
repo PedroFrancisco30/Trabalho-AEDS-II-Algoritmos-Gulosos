@@ -1,0 +1,4 @@
+Cannot generate into /home/pedro/Documentos/GitHub/Trabalho-AEDS-II-Algoritmos-Gulosos/cmake-build-debug
+It is already used for project /home/pedro/Documentos/GitHub/Algoritmos Gulosos
+
+Please either delete it manually or select another generation directory

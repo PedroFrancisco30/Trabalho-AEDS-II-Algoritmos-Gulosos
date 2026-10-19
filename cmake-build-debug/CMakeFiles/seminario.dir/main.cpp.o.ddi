@@ -1,0 +1,26 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "selecao_atividades"
+        },
+        {
+          "logical-name": "mochila_fracionaria"
+        },
+        {
+          "logical-name": "huffman"
+        },
+        {
+          "logical-name": "kruskal"
+        },
+        {
+          "logical-name": "prim"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

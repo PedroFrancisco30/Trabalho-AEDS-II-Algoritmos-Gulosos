@@ -1,0 +1,27 @@
+# ninja log v7
+4	154	1792285727361617062	CMakeFiles/seminario.dir/5_prim_mst.cppm.o.ddi	4fb5e7a001026a30
+3	154	1792285727360817266	CMakeFiles/seminario.dir/3_huffman.cppm.o.ddi	d221acb1a252277a
+2	156	1792285727359042589	CMakeFiles/seminario.dir/main.cpp.o.ddi	bd9878a22ace95a7
+2	167	1792285727360122017	CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o.ddi	5b04cdfa270f9cc1
+3	169	1792285727361116984	CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o.ddi	e94431a19cc59a46
+3	201	1792285727360459616	CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o.ddi	e79eb9fa2e87f8f3
+201	217	1792285727573590604	CMakeFiles/seminario.dir/CXX.dd	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/CXXModules.json	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/main.cpp.o.modmap	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o.modmap	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o.modmap	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/3_huffman.cppm.o.modmap	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o.modmap	bd0f04c87620d02
+201	217	1792285727573590604	CMakeFiles/seminario.dir/5_prim_mst.cppm.o.modmap	bd0f04c87620d02
+218	2192	1792285729538955056	CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o	49cda443847f8eb4
+218	2192	1792285729538955056	CMakeFiles/seminario.dir/selecao_atividades.pcm	49cda443847f8eb4
+218	2201	1792285729545954775	CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o	a6fce8dc44dff7bb
+218	2201	1792285729545954775	CMakeFiles/seminario.dir/kruskal.pcm	a6fce8dc44dff7bb
+218	2345	1792285729692948871	CMakeFiles/seminario.dir/3_huffman.cppm.o	2fed669953f4e2b4
+218	2345	1792285729692948871	CMakeFiles/seminario.dir/huffman.pcm	2fed669953f4e2b4
+219	2383	1792285729731947304	CMakeFiles/seminario.dir/5_prim_mst.cppm.o	63503a9f11725e66
+219	2383	1792285729731947304	CMakeFiles/seminario.dir/prim.pcm	63503a9f11725e66
+218	2912	1792285730254926294	CMakeFiles/seminario.dir/2_mochila_fracionaria.cppm.o	7e8303b90832ef63
+218	2912	1792285730254926294	CMakeFiles/seminario.dir/mochila_fracionaria.pcm	7e8303b90832ef63
+2912	3583	1792285730269925691	CMakeFiles/seminario.dir/main.cpp.o	7af89888197d4695
+3583	3816	1792285730939898771	seminario	f4b957d60d57f2c8

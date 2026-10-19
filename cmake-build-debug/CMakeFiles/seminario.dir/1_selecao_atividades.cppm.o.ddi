@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/1_selecao_atividades.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "selecao_atividades",
+          "source-path": "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/1_selecao_atividades.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

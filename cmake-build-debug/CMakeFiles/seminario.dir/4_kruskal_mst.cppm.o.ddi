@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/4_kruskal_mst.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "kruskal",
+          "source-path": "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/4_kruskal_mst.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

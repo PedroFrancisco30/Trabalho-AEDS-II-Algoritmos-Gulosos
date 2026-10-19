@@ -1,0 +1,3 @@
+/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/seminario.dir
+/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/Documentos/GitHub/Algoritmos Gulosos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

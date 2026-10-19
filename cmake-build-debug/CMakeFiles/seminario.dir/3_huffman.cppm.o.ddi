@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/seminario.dir/3_huffman.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "huffman",
+          "source-path": "/home/pedro/Documentos/GitHub/Algoritmos Gulosos/3_huffman.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
